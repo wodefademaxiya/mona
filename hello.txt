@@ -1,0 +1,10 @@
+# 定义两个数
+num1 = 10
+num2 = 20
+
+# 计算两数之和
+sum_result = num1 + num2
+
+# 输出结果
+print(f"两数 {num1} 和 {num2} 的和为: {sum_result}")
+    
